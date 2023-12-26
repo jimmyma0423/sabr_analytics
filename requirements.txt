@@ -4,6 +4,5 @@ pysabr
 QuantLib
 pandas
 matplotlib
-itertools
 scipy
 openpyxl
