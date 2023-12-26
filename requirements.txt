@@ -1,0 +1,9 @@
+# This is a comment, to show how #-prefixed lines are ignored.
+# It is possible to specify requirements as plain names.
+pysabr
+QuantLib
+pandas
+matplotlib
+itertools
+scipy
+openpyxl
